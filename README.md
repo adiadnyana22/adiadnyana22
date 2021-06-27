@@ -1,16 +1,15 @@
-### Hi there 👋
+### Adi Adnyana - @adiadnyana22
 
-<!--
-**adiadnyana22/adiadnyana22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Adi enthusiastic about technology, finance, and education.<br>
+Currently undergoing a bachelor's degree at Binus University @Malang majoring Computer Science
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning 
+  - Javascript
+  - Flutter
+ 
+- 📫 How to reach me:
+  - adiadnyana22@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ My personal web profile
+  - https://adiadnyana.netlify.app/
+

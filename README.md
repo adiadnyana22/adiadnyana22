@@ -6,10 +6,10 @@ Currently undergoing a bachelor's degree at Binus University @Malang majoring Co
 - 🌱 I’m currently learning 
   - Javascript
   - Flutter
- 
+ <br>
 - 📫 How to reach me:
   - adiadnyana22@gmail.com
-
+<br>
 - ⚡ My personal web profile
   - https://adiadnyana.netlify.app/
 

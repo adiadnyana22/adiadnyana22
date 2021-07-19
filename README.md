@@ -13,3 +13,4 @@ Currently undergoing a bachelor's degree at Binus University @Malang majoring Co
 - ⚡ My personal web profile
   - https://adiadnyana.netlify.app/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiadnyana22)](https://github.com/anuraghazra/github-readme-stats)

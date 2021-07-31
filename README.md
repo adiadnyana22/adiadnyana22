@@ -4,8 +4,8 @@ Hi there 👋, I'm Adi enthusiastic about technology, finance, and education.<br
 Currently undergoing a bachelor's degree at Binus University @Malang majoring Computer Science
 
 - 🌱 I’m currently learning 
-  - Javascript
-  - Flutter
+  - Javascript (React & Express)
+  - Dart (Flutter)
 
 - 📫 How to reach me:
   - adiadnyana22@gmail.com
